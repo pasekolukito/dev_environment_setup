@@ -5,9 +5,7 @@ List of items / steps to set up an environment for MacOS and Windows.
 
 ## MacOS
 
-```
-[Contribution guidelines for this project](Platforms/Windows.md)
-```
+ [link to Google!](http://google.com)
 
 ## Windows
 
