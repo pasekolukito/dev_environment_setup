@@ -3,7 +3,7 @@
 
 List of items / steps to set up an environment for MacOS and Windows.
 
-##  [Mac](Platforms/MacOS.md)
+###  [Mac](Platforms/MacOS.md)
 
 ###  [Windows](Platforms/Windows.md)
 
@@ -148,6 +148,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA4ODk5MDksODk0OTU3NzY1LC01NT
-IwMDk1MDhdfQ==
+eyJoaXN0b3J5IjpbMTkwMTQ2OTQxOCw4OTQ5NTc3NjUsLTU1Mj
+AwOTUwOF19
 -->
