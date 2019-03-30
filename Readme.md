@@ -4,11 +4,9 @@
 List of items / steps to set up an environment for MacOS and Windows.
 
 ## MacOS
+
 ```
-```
-[Google][1]
-[1]: www.google.com
-```  
+[Contribution guidelines for this project](Platforms/Windows.md)
 ```
 
 ## Windows
@@ -153,5 +151,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTY0OTI4NCwtNTUyMDA5NTA4XX0=
+eyJoaXN0b3J5IjpbODk0OTU3NzY1LC01NTIwMDk1MDhdfQ==
 -->
