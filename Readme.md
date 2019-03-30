@@ -5,7 +5,7 @@ List of items / steps to set up an environment for MacOS and Windows.
 
 ## MacOS
 ```
-[Test](Platforms%5CMacOS.md)
+[Test](https://github.com/pasekolukito/dev_environment_setup/blob/master/Platforms/MacOS.md)
 ```
 
 ## Windows
@@ -150,5 +150,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNjQ5NTgwLC01NTIwMDk1MDhdfQ==
+eyJoaXN0b3J5IjpbMjIwMjI2NjA5LC01NTIwMDk1MDhdfQ==
 -->
