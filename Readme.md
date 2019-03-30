@@ -6,8 +6,9 @@ List of items / steps to set up an environment for MacOS and Windows.
 ## MacOS
 ```
 ```
-[Google][]
-```
+[Google][1]
+[1]: www.google.com
+```  
 ```
 
 ## Windows
@@ -152,5 +153,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI4MDQ2ODcsLTU1MjAwOTUwOF19
+eyJoaXN0b3J5IjpbLTc5OTY0OTI4NCwtNTUyMDA5NTA4XX0=
 -->
