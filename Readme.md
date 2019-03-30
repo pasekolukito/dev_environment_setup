@@ -4,7 +4,9 @@
 List of items / steps to set up an environment for MacOS and Windows.
 
 ## MacOS
-
+```
+[Link](Platforms/MacOS.md)
+```
 
 ## Windows
 
@@ -148,5 +150,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjAwOTUwOF19
+eyJoaXN0b3J5IjpbLTIwMTUxOTM0MzIsLTU1MjAwOTUwOF19
 -->
