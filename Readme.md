@@ -3,11 +3,10 @@
 
 List of items / steps to set up an environment for MacOS and Windows.
 
-## MacOS
+##  [Mac](Platforms/MacOS.md)
 
- [link to Google!](http://google.com)
+###  [Windows](Platforms/Windows.md)
 
-## Windows
 
 
 # Files
@@ -149,5 +148,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0OTU3NzY1LC01NTIwMDk1MDhdfQ==
+eyJoaXN0b3J5IjpbLTExMzA4ODk5MDksODk0OTU3NzY1LC01NT
+IwMDk1MDhdfQ==
 -->
