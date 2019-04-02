@@ -25,7 +25,8 @@
 #### Chrome - signed in
 
 #### Spotify
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk4OTgwMCwtNTk3MDk5NTM0LC0xNz
-k5MzU2NTI0XX0=
+eyJoaXN0b3J5IjpbLTcyNzA4Mzc3MCwtMjAzOTg5ODAwLC01OT
+cwOTk1MzQsLTE3OTkzNTY1MjRdfQ==
 -->
