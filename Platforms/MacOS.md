@@ -1,7 +1,7 @@
 
 
 
-# Mac
+# Mac 1
 
 ## Apps
 
@@ -17,5 +17,6 @@
 
 #### DaVinci Resolve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkzNTY1MjRdfQ==
+eyJoaXN0b3J5IjpbLTEyMTM4NTkyMjcsLTE3OTkzNTY1MjRdfQ
+==
 -->
