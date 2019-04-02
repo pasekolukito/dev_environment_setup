@@ -6,7 +6,7 @@
 ## Apps
 
 #### Rider
-#### Visual Studio Code
+#### Visual Studio 2019 for Mac
 
 #### Unity Hub
 #### Git
@@ -27,6 +27,6 @@
 #### Spotify
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzA4Mzc3MCwtMjAzOTg5ODAwLC01OT
-cwOTk1MzQsLTE3OTkzNTY1MjRdfQ==
+eyJoaXN0b3J5IjpbLTE3OTg5MzgyODEsLTIwMzk4OTgwMCwtNT
+k3MDk5NTM0LC0xNzk5MzU2NTI0XX0=
 -->
