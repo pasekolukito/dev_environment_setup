@@ -30,3 +30,8 @@
 eyJoaXN0b3J5IjpbMTUxMTQ5NjAwNSwtMTc5ODkzODI4MSwtMj
 AzOTg5ODAwLC01OTcwOTk1MzQsLTE3OTkzNTY1MjRdfQ==
 -->
+
+
+#Setup#
+
+1. Install Karabin and PC Shortcuts Complex Actions set. - It allows to use win keyboard layout on a Mac in an easy intuitive way.
